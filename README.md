@@ -1,52 +1,28 @@
-# 임성묵 | Backend · GIS · AI Engineering
+# 00700lsm
 
-**백엔드와 공간정보 시스템을 개발하고, AI를 개발 과정에 적용하는 구조를 설계합니다.**
+**Backend · GIS · AI Tooling**
 
-Java/Spring 기반 서비스 개발 경험을 바탕으로 GIS·공간데이터 분야로 작업 범위를 넓혀 왔습니다.
-현재는 공간정보 시스템 개발과 함께 AI 코딩 PoC의 설계 및 협업 체계를 담당하고 있습니다.
-AI가 코드를 생성하는 것에서 나아가, 여러 개발자와 에이전트의 결과물이 하나의 시스템으로 연결되는 과정에 관심이 있습니다.
+## 🛠 Tech Stack
 
-## 현재 하고 있는 일
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-343434?style=flat-square)
 
-### GIS · 공간정보 시스템 개발
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-- 공간데이터를 활용한 후보지 분석과 사업성 검토 기능 개발
-- PostgreSQL/PostGIS, GeoServer 기반 공간데이터 처리 및 지도 서비스 연계
-- QGIS/PyQGIS를 활용한 공간분석과 반복 작업 자동화
+### GIS
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white) ![PyQGIS](https://img.shields.io/badge/PyQGIS-589632?style=flat-square) ![GeoServer](https://img.shields.io/badge/GeoServer-4382A0?style=flat-square) ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white) ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white)
 
-### AI 코딩 PoC 설계 · 협업 체계
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-- 사용자 관리 서비스를 대상으로 AI를 활용한 개발 방식 검증
-- Contract-first 기반 API 계약과 프론트엔드·백엔드 간 일관성 관리
-- 작업의 선행·후행 관계, 병렬 개발 범위, 통합 시점과 검증 기준 설계
-- Mock 테스트와 실제 연동 검증을 구분하고, PR·CI·리뷰 과정에서 발생하는 협업 문제 개선
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### agentic-rail
+## 🔬 Interests
 
-AI 개발 작업의 절차와 설계 결정, 위임할 맥락, 검증 결과를 관리하는 도구를 만들고 있습니다.
+`AI Coding` · `Agent Orchestration` · `Contract-first` · `Local LLM` · `Spatial Data`
 
-- 작업별 flow와 선행 작업 관계 관리
-- 설계 결정과 변경 근거 기록
-- 작업 목표·담당 파일·관련 결정·승인 근거를 묶은 brief 생성
-- PASS / FAIL / NOT_RUN을 구분한 검증 상태 관리
+## 🔗 Links
 
-현재는 명시적인 작업 전달과 검증 관리에 집중하고 있으며,
-여러 LLM과 로컬 모델을 함께 활용하는 오케스트레이션 구조를 검토하고 있습니다.
-
-## 기술
-
-| 영역 | 주요 기술 |
-| --- | --- |
-| Backend | Java, Spring, REST API, MyBatis |
-| Database | PostgreSQL, PostGIS, MariaDB |
-| GIS | QGIS, PyQGIS, GeoServer, OpenLayers, MapLibre |
-| Frontend | Vue, React |
-| Python | Python, FastAPI |
-| 개발 환경 | Git, GitHub, GitLab, Docker |
-
-## 개발할 때 중요하게 보는 것
-
-- **계약과 경계:** 구현 전에 인터페이스와 책임 범위를 명확히 합니다.
-- **검증 근거:** 구현 완료와 실제 연동 확인을 구분합니다.
-- **협업 구조:** 병렬 작업의 생산성과 통합 비용을 함께 고려합니다.
-- **설명 가능한 결정:** 무엇을 선택했는지와 왜 선택했는지를 기록합니다.
+[Blog](https://cmcm.tistory.com/) · [Repositories](https://github.com/00700lsm?tab=repositories)
