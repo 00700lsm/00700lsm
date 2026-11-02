@@ -1,5 +1,3 @@
-# 00700lsm
-
 ## 🛠 Tech Stack
 
 ### Backend
