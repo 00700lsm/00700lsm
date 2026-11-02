@@ -1,6 +1,6 @@
 # 00700lsm
 
-**Backend · GIS · AI Tooling**
+**Backend · AI Tooling · Developer Productivity**
 
 ## 🛠 Tech Stack
 
@@ -26,8 +26,6 @@
 | 🤖 AI Development | `AI Coding` · `Agent Orchestration` · `Agent Harness` · `Multi-model Workflows` |
 | 🤝 Developer Collaboration | `Contract-first` · `Parallel Development` · `Integration Testing` · `CI/CD` |
 | 🧠 LLM Applications | `Local LLM` · `RAG` · `Vector Database` · `LangGraph` |
-| 🌍 Geospatial | `Spatial Analysis` · `Site Suitability Analysis` · `Web GIS` · `PyQGIS Automation` |
-| 🗄️ Data Engineering | `Spatial Data Pipelines` · `Apache Spark` · `Apache Sedona` · `Apache Iceberg` |
 | ⚙️ Backend | `Java Virtual Threads` · `API Design` · `Performance Optimization` |
 
 ## 🔗 Links
