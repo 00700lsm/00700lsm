@@ -1,7 +1,5 @@
 # 00700lsm
 
-**Backend · AI Tooling · Developer Productivity**
-
 ## 🛠 Tech Stack
 
 ### Backend
