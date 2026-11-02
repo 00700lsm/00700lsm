@@ -21,7 +21,14 @@
 
 ## 🔬 Interests
 
-`AI Coding` · `Agent Orchestration` · `Contract-first` · `Local LLM` · `Spatial Data`
+| Area | Topics |
+| --- | --- |
+| 🤖 AI Development | `AI Coding` · `Agent Orchestration` · `Agent Harness` · `Multi-model Workflows` |
+| 🤝 Developer Collaboration | `Contract-first` · `Parallel Development` · `Integration Testing` · `CI/CD` |
+| 🧠 LLM Applications | `Local LLM` · `RAG` · `Vector Database` · `LangGraph` |
+| 🌍 Geospatial | `Spatial Analysis` · `Site Suitability Analysis` · `Web GIS` · `PyQGIS Automation` |
+| 🗄️ Data Engineering | `Spatial Data Pipelines` · `Apache Spark` · `Apache Sedona` · `Apache Iceberg` |
+| ⚙️ Backend | `Java Virtual Threads` · `API Design` · `Performance Optimization` |
 
 ## 🔗 Links
 
